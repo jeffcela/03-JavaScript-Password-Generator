@@ -75,7 +75,7 @@ function genPw() {
   var answer = [];
   var possibleCharacters = [];
   var guaranteedCharacters = [];
-  if (!doodad) return;
+  if (!doodad) return "";
   if (doodad.hassplChar) {
     possibleCharacters = possibleCharacters.concat(splChar);
     guaranteedCharacters.push(getRandom(splChar));
