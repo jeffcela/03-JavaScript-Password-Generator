@@ -7,7 +7,7 @@ Live Page [Link](https://jeffcela.github.io/03-JavaScript-Password-Generator/) <
 Project Repository [Link](https://github.com/jeffcela/03-JavaScript-Password-Generator)
 
 ## How its made!
-Make sure to clone or download the entire repository as this document uses **HTML, CSS, GIFs and JavaScript files** Adding additional comments with the HTML or CSS code will allow for the continue ease of use when updating for future use. 
+Make sure to clone or download the entire repository as this document uses **HTML, CSS, GIFs and JavaScript files**. Adding additional comments with the HTML or CSS code will allow for the continue ease of use when updating for future use. 
 
 **What is included:**
 * index.html
@@ -18,13 +18,11 @@ Make sure to clone or download the entire repository as this document uses **HTM
       * style.css
    * js folder
       * script.js 
-* images folder
-      * PssWd_Gen.gif (Used in README.md file only) 
 * README.md
 
 *Please make sure that you are adding any additional assets as needed*
 
-## If you see this you are on the landing page!
+## This is how the Password Generator will function!
    ![](assets/images/PssWd_Gen.gif)
 
 # Credit<br>
